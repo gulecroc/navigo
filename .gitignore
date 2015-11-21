@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ######################
 # Project Specific
 ######################
@@ -126,3 +127,17 @@ Desktop.ini
 # Maven Wrapper
 ######################
 !.mvn/wrapper/maven-wrapper.jar
+=======
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+>>>>>>> bbef28d12f306330089f18a717536b2b71f38747
