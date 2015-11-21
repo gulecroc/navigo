@@ -1,0 +1,24 @@
+{
+  "generator-jhipster": {
+    "baseName": "navigo",
+    "packageName": "fr.cnamts.bus.navigo",
+    "packageFolder": "fr/cnamts/bus/navigo",
+    "authenticationType": "session",
+    "hibernateCache": "ehcache",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": "no",
+    "useSass": false,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "enableTranslation": true,
+    "enableSocialSignIn": false,
+    "rememberMeKey": "2679cc92af93dcd030211496bb812669d4a30e62",
+    "testFrameworks": [
+      "gatling"
+    ]
+  }
+}
